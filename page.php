@@ -5,8 +5,6 @@
 
 <div class="container">
 
-    <h1>Hello</h1>
-
     <!--get data from wordpress page editor-->
     <h1><?php the_title(); ?><h1>
 
